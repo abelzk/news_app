@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1030501318601",
+    "project_id": "addis-read",
+    "storage_bucket": "addis-read.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030501318601:android:3e8c1a166949377df03218",
+        "android_client_info": {
+          "package_name": "com.addisread.news_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030501318601-mj56er6os2q0gernt6uv9smt5ae89br0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDydxBtr3N709JlzPHtPNUy03PUGiFwUwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030501318601-mj56er6os2q0gernt6uv9smt5ae89br0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
